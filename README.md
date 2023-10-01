@@ -1,25 +1,19 @@
-# SDD3-01 : Synthèse sur les métriques en classification supervisée
+# Aide-mémoire sur les métriques en classification supervisée
 
 ## Avant-propos
 
-Les consignes reprises dans ce document, ainsi que dans les différents fichiers sont susceptibles d'évoluer. N'hésitez pas à vérifier le lien suivant afin de voir si des modifications n'y ont pas été apportées : <https://github.com/BioDataScience-Course/C01Ga_metrique>
-
-Ce projet nécessite d'avoir assimilé l'ensemble des notions relatives aux métriques du premier module du cours de Science des données biologiques 3.
+Ce projet nécessite d'avoir assimilé l'ensemble des notions relatives aux métriques du premier module du cours de Science des Données biologiques 3. Il correspond au dépôt GitHub <https://github.com/BioDataScience-Course/C01Ga_metrique>.
 
 ## Objectif
 
-Ce projet est un projet de groupe. Ce projet doit être soumis au plus tard pour le **vendredi 14 octobre à 23H59**.
-
-Ce projet vous permet de démontrer votre bonne compréhension des métriques utilisées en classification supervisée.
+Le but de ce travail est de clarifier votre compréhension des différentes métriques basées sur la matrice de confusion que vous pourrez utiliser pour évaluer les performances d'un classifieur. Vous allez créer votre propre aide-mémoire relatif à ce sujet en adaptant le template fourni.
 
 ## Consignes
 
-Proposez un document de synthèse sous la forme d'un aide-mémoire en français ou en anglais qui propose une explication sur les métriques utilisées en classification supervisée.
+Créez un aide-mémoire en français ou en anglais au choix sur une **feuille A4 simple face** (à partir du template, voir ci-dessous) qui reprend les éléments importants relatifs aux métriques utilisées en classification supervisée.
 
-Vous avez un template disponible pour [keynote](https://github.com/rstudio/cheatsheets/raw/main/keynotes/0-template.key) ou pour [Powerpoint](https://github.com/rstudio/cheatsheets/raw/main/powerpoints/0-template.pptx).
+Vous partirez d'un template pour [Keynote](https://github.com/rstudio/cheatsheets/raw/main/keynotes/0-template.key) ou pour [Powerpoint](https://github.com/rstudio/cheatsheets/raw/main/powerpoints/0-template.pptx). Vous choisirez soit le template sur quatre colonnes, soit le template sur trois colonnes que vous utiliserez comme point de départ en effaçant celui qui n'est pas utilisé (feuille A4 simple face uniquement). Conservez autant que possible les styles pour que votre aide-mémoire s'harmonise avec les autres. Inspirez-vous des différents aide-mémoires de votre farde SDD pour comprendre la logique et l'agencement d'un bon aide-mémoire. **Synthétisez l'information pour qu'elle rentre dans la page A4.** Vous ne pouvez pas tricher en diminuant la taille de la police de caractère.
 
-Inspirez vous des aide-mémoires réalisés pour les cours de sciences de données biologiques <https://github.com/BioDataScience-Course/sdd_cheatsheets>
+Placez votre aide-mémoire à la racine de ce projet et nommez-le `metrics.pptx` ou `metrics.key` selon le format choisis. **Exportez aussi une version au format PDF que vous nommerez obligatoirement `metrics.pdf` dans le même dossier racine du projet.**
 
-Placez votre aide-mémoire dans le dossier `docs/` de ce projet.
-
-Les aide-mémoires seront évalués. Les étudiants proposant le meilleur aide-mémoire recevront un prix.
+Les aide-mémoires seront évalués qualitativement (commentaires constructifs) mais ne seront pas notés avec des points. Nous élirons le meilleur aide-mémoire de la promotion et les étudiants qui l'ont réalisé recevront un prix. Vous pourrez, si vous le désirez, imprimer cet aide-mémoire et l'inclure dans votre farde SDD (ce qui implique qu'il sera utilisable comme support pour l'interrogation). Mais attention, vous ne pourrez utiliser que la version que vous nous avez soumise, pas une version corrigée, amendée, ni la version provenant d'autres étudiants ! Il est donc important que vous vous appliquiez pour obtenir un document support utile.

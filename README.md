@@ -1,14 +1,16 @@
-# Aide-mémoire sur les métriques en classification supervisée
+# Métriques et optimisation en classification supervisée
 
-## Avant-propos
-
-Ce projet nécessite d'avoir assimilé l'ensemble des notions relatives aux métriques du premier module du cours de Science des Données biologiques 3. Il correspond au dépôt GitHub <https://github.com/BioDataScience-Course/C01Ga_metrique>.
+Ce projet nécessite d'avoir assimilé l'ensemble des notions relatives aux métriques du premier module du cours de Science des Données biologiques 3 pour sa première partie. Il nécessite ensuite d'avoir compris les concepts des modules 1 à 3 pour sa seconde partie. Il correspond au dépôt GitHub <https://github.com/BioDataScience-Course/C01Ga_metrique>.
 
 ## Objectif
 
-Le but de ce travail est de clarifier votre compréhension des différentes métriques basées sur la matrice de confusion que vous pourrez utiliser pour évaluer les performances d'un classifieur. Vous allez créer votre propre aide-mémoire relatif à ce sujet en adaptant le template fourni.
+Le premier but de ce travail est de clarifier votre compréhension des différentes métriques basées sur la matrice de confusion que vous pourrez utiliser pour évaluer les performances d'un classifieur. Vous allez créer votre propre aide-mémoire relatif à ce sujet en adaptant le template fourni.
+
+Vous allez également dans un second temps résumer les différentes techniques que vous avez apprises pour améliorer les performances d'un classifieur.
 
 ## Consignes
+
+### Module 1 : métriques
 
 Créez un aide-mémoire en français ou en anglais au choix sur une **feuille A4 simple face** (à partir du template, voir ci-dessous) qui reprend les éléments importants relatifs aux métriques utilisées en classification supervisée.
 
@@ -17,3 +19,12 @@ Vous partirez d'un template pour [Keynote](https://github.com/rstudio/cheatsheet
 Placez votre aide-mémoire à la racine de ce projet et nommez-le `metrics.pptx` ou `metrics.key` selon le format choisis. **Exportez aussi une version au format PDF que vous nommerez obligatoirement `metrics.pdf` dans le même dossier racine du projet.**
 
 Les aide-mémoires seront évalués qualitativement (commentaires constructifs) mais ne seront pas notés avec des points. Nous élirons le meilleur aide-mémoire de la promotion et les étudiants qui l'ont réalisé recevront un prix. Vous pourrez, si vous le désirez, imprimer cet aide-mémoire pour l'utiliser comme matériel complémentaire (ce qui implique qu'il sera utilisable comme support pour l'interrogation et pour le challenge). Mais attention, vous ne pourrez utiliser que la version que vous nous avez soumise, pas une version corrigée, amendée, ni la version provenant d'autres étudiants ! Il est donc important que vous vous appliquiez pour obtenir un document support utile.
+
+
+### Module 2 et 3 : optimisation de classifieur
+
+Rédigez un document de synthèse de ce que vous avez appris dans les trois premiers modules du cours SDD III qui peuvent vous servir pour optimiser un classifieur. Nommez ce fichier `optimisation.md` et placez-le dans le à la racine de ce projet.
+
+Organisez votre document en utilisant des titres explicites dans le document. Chaque participant doit effectuer au moins un commit sur le projet et identifier précisément la section dont il ou elle est responsable (indiquez "Rédigé par ..." juste en dessous du titre de la section concernée). Notez bien, cependant, que l'ensemble du groupe est responsable de la totalité du contenu. Chacun doit donc aussi relire les sections des autres. Vous devez vous mettre d'accord sur tout le texte avant finalisation.
+
+Complétez vos connaissances à l'aide d'une brève recherche bibliographique. Citez l'ensemble de vos sources dans ce document.
